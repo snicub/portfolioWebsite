@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolioWebsite/static/css/main.35b72f5a.chunk.css",
+    "main.css": "/portfolioWebsite/static/css/main.59fdc730.chunk.css",
     "main.js": "/portfolioWebsite/static/js/main.05315724.chunk.js",
     "main.js.map": "/portfolioWebsite/static/js/main.05315724.chunk.js.map",
     "runtime-main.js": "/portfolioWebsite/static/js/runtime-main.cf893d70.js",
@@ -8,7 +8,7 @@
     "static/js/2.b3977e7a.chunk.js": "/portfolioWebsite/static/js/2.b3977e7a.chunk.js",
     "static/js/2.b3977e7a.chunk.js.map": "/portfolioWebsite/static/js/2.b3977e7a.chunk.js.map",
     "index.html": "/portfolioWebsite/index.html",
-    "static/css/main.35b72f5a.chunk.css.map": "/portfolioWebsite/static/css/main.35b72f5a.chunk.css.map",
+    "static/css/main.59fdc730.chunk.css.map": "/portfolioWebsite/static/css/main.59fdc730.chunk.css.map",
     "static/js/2.b3977e7a.chunk.js.LICENSE.txt": "/portfolioWebsite/static/js/2.b3977e7a.chunk.js.LICENSE.txt",
     "static/media/MEPNG.6a147f2a.png": "/portfolioWebsite/static/media/MEPNG.6a147f2a.png",
     "static/media/mom.3bd0a606.png": "/portfolioWebsite/static/media/mom.3bd0a606.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.cf893d70.js",
     "static/js/2.b3977e7a.chunk.js",
-    "static/css/main.35b72f5a.chunk.css",
+    "static/css/main.59fdc730.chunk.css",
     "static/js/main.05315724.chunk.js"
   ]
 }
