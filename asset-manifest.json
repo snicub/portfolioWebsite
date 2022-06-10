@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snicub.github.io/portfolioWebsite/static/css/main.7829255e.chunk.css",
+    "main.js": "/snicub.github.io/portfolioWebsite/static/js/main.05315724.chunk.js",
+    "main.js.map": "/snicub.github.io/portfolioWebsite/static/js/main.05315724.chunk.js.map",
+    "runtime-main.js": "/snicub.github.io/portfolioWebsite/static/js/runtime-main.cf2f94ee.js",
+    "runtime-main.js.map": "/snicub.github.io/portfolioWebsite/static/js/runtime-main.cf2f94ee.js.map",
+    "static/js/2.b3977e7a.chunk.js": "/snicub.github.io/portfolioWebsite/static/js/2.b3977e7a.chunk.js",
+    "static/js/2.b3977e7a.chunk.js.map": "/snicub.github.io/portfolioWebsite/static/js/2.b3977e7a.chunk.js.map",
+    "index.html": "/snicub.github.io/portfolioWebsite/index.html",
+    "static/css/main.7829255e.chunk.css.map": "/snicub.github.io/portfolioWebsite/static/css/main.7829255e.chunk.css.map",
+    "static/js/2.b3977e7a.chunk.js.LICENSE.txt": "/snicub.github.io/portfolioWebsite/static/js/2.b3977e7a.chunk.js.LICENSE.txt",
+    "static/media/MEPNG.6a147f2a.png": "/snicub.github.io/portfolioWebsite/static/media/MEPNG.6a147f2a.png",
+    "static/media/mom.3bd0a606.png": "/snicub.github.io/portfolioWebsite/static/media/mom.3bd0a606.png",
+    "static/media/school.5fc74d3b.jpg": "/snicub.github.io/portfolioWebsite/static/media/school.5fc74d3b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf2f94ee.js",
+    "static/js/2.b3977e7a.chunk.js",
+    "static/css/main.7829255e.chunk.css",
+    "static/js/main.05315724.chunk.js"
+  ]
+}
