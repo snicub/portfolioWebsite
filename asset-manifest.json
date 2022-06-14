@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolioWebsite/static/css/main.2241343c.chunk.css",
-    "main.js": "/portfolioWebsite/static/js/main.57afa554.chunk.js",
-    "main.js.map": "/portfolioWebsite/static/js/main.57afa554.chunk.js.map",
+    "main.css": "/portfolioWebsite/static/css/main.b581008b.chunk.css",
+    "main.js": "/portfolioWebsite/static/js/main.7a8d2640.chunk.js",
+    "main.js.map": "/portfolioWebsite/static/js/main.7a8d2640.chunk.js.map",
     "runtime-main.js": "/portfolioWebsite/static/js/runtime-main.cf893d70.js",
     "runtime-main.js.map": "/portfolioWebsite/static/js/runtime-main.cf893d70.js.map",
-    "static/js/2.b3977e7a.chunk.js": "/portfolioWebsite/static/js/2.b3977e7a.chunk.js",
-    "static/js/2.b3977e7a.chunk.js.map": "/portfolioWebsite/static/js/2.b3977e7a.chunk.js.map",
+    "static/js/2.2947fd92.chunk.js": "/portfolioWebsite/static/js/2.2947fd92.chunk.js",
+    "static/js/2.2947fd92.chunk.js.map": "/portfolioWebsite/static/js/2.2947fd92.chunk.js.map",
     "index.html": "/portfolioWebsite/index.html",
-    "static/css/main.2241343c.chunk.css.map": "/portfolioWebsite/static/css/main.2241343c.chunk.css.map",
-    "static/js/2.b3977e7a.chunk.js.LICENSE.txt": "/portfolioWebsite/static/js/2.b3977e7a.chunk.js.LICENSE.txt",
+    "static/css/main.b581008b.chunk.css.map": "/portfolioWebsite/static/css/main.b581008b.chunk.css.map",
+    "static/js/2.2947fd92.chunk.js.LICENSE.txt": "/portfolioWebsite/static/js/2.2947fd92.chunk.js.LICENSE.txt",
     "static/media/MEPNG.6a147f2a.png": "/portfolioWebsite/static/media/MEPNG.6a147f2a.png",
-    "static/media/email.f2e000b8.png": "/portfolioWebsite/static/media/email.f2e000b8.png",
     "static/media/fris1.969f2e90.jpeg": "/portfolioWebsite/static/media/fris1.969f2e90.jpeg",
-    "static/media/moon1.3ec2c574.png": "/portfolioWebsite/static/media/moon1.3ec2c574.png",
-    "static/media/phone.a40c2be7.png": "/portfolioWebsite/static/media/phone.a40c2be7.png",
+    "static/media/nyc1.25827391.jpg": "/portfolioWebsite/static/media/nyc1.25827391.jpg",
     "static/media/school1.82324c8a.JPG": "/portfolioWebsite/static/media/school1.82324c8a.JPG",
-    "static/media/sun.d556e2de.png": "/portfolioWebsite/static/media/sun.d556e2de.png"
+    "static/media/tbell1.21a75e8b.JPG": "/portfolioWebsite/static/media/tbell1.21a75e8b.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.cf893d70.js",
-    "static/js/2.b3977e7a.chunk.js",
-    "static/css/main.2241343c.chunk.css",
-    "static/js/main.57afa554.chunk.js"
+    "static/js/2.2947fd92.chunk.js",
+    "static/css/main.b581008b.chunk.css",
+    "static/js/main.7a8d2640.chunk.js"
   ]
 }
